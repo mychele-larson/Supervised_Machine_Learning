@@ -1,16 +1,17 @@
-# SUPERVISED MACHINE LEARNING  DUE: 2/22/23
+# SUPERVISED MACHINE LEARNING  
+DUE: 2/22/23
 
-Background
+![machine-learning_2](https://user-images.githubusercontent.com/110074895/219933764-5edaa8df-d68b-4dfc-8e17-eede9c1025a1.jpg)
+
+
+### **Background**
+
 Lending services companies allow individual investors to partially fund personal loans as well as buy and sell notes backing the loans on a secondary market.
 
-You will be using this data to create machine learning models to classify the risk level of given loans. Specifically, you will be comparing the Logistic Regression model and Random Forest Classifier.
+Use the provided data to create machine learning models to classify the risk level of given loans. Specifically,compare the Logistic Regression model and Random Forest Classifier.
 
-Predict Model Performance
-You will be creating and comparing two models on this data: a Logistic Regression, and a Random Forests Classifier. Before you create, fit, and score the models, make a prediction as to which model you think will perform better. You do not need to be correct!
+### **Predict Model Performance**
+Before creating and comparing the Logistical Regression and the Random Firest Classifer models, make a prediction as to which model will perform better. Determine each model's score using the score function and testing data. Provide the answer with justification in the designated area of the Jupyter Notebook.
 
-Write down your prediction in the designated cells in your Jupyter Notebook, and provide justification for your educated guess.
-
-Create, Fit and Compare Models
-Create a Logistic Regression model, fit it to the training data that you created in the previous step. Then, determine the model's score by using the score function and the testing data from the previous step. Do the same for a Random Forest Classifier. You may choose any starting hyperparameters you like.
-
-Review the scores of each model. Which model performed better? How does that compare to your prediction? Write down your results and thoughts in the designated markdown cell.
+### **Answer the following question**
+Which model performed better? How does that compare to the prediction? Write down the results and any thoughts in the designated markdown cell.
