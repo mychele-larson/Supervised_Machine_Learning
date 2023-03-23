@@ -1,5 +1,4 @@
 # SUPERVISED MACHINE LEARNING  
-DUE: 2/22/23
 
 ![machine-learning_2](https://user-images.githubusercontent.com/110074895/219933764-5edaa8df-d68b-4dfc-8e17-eede9c1025a1.jpg)
 
